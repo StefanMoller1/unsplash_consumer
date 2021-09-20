@@ -1,0 +1,10 @@
+.header {
+  top: 0;
+  left: 0;
+  position: fixed;
+  height: 10%;
+  background-color: #ccc;
+  width: -webkit-fill-available;
+  font-size: xxx-large;
+  color: rgb(85, 85, 85);
+}

@@ -1,0 +1,30 @@
+.image_viewer {
+  top: 10%;
+  left: 20%;
+  position: relative;
+  overflow-x: hidden;
+  width: 80%;
+}
+
+.image_viewer .gallary_image {
+  max-height: 300px;
+  padding: 5px;
+}
+
+.nav-button {
+  height: 90%;
+  width: 5%;
+  top: 10%;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  border: none;
+  color: #FFF;
+}
+
+.nav-button.right {
+  right: 0;
+}
+
+.nav-button.left {
+  left: 0;
+}
